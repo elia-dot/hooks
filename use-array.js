@@ -14,7 +14,7 @@ const useArray = (initialValue) => {
   const update = (i, el) => {
     setArray((arr) => [
       ...arr.slice(0, i),
-      el,
+      {el},
       ...arr.slice(i + 1, arr.length),
     ]);
   };

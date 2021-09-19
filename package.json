@@ -1,0 +1,27 @@
+{
+  "name": "elia-dot-hooks",
+  "version": "1.0.1",
+  "description": "useful react hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elia-dot/hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks"
+  ],
+  "author": "elia-dot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elia-dot/hooks/issues"
+  },
+  "homepage": "https://github.com/elia-dot/hooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
